@@ -14,7 +14,7 @@ public class Main {
         ArrayList<Doctor> doctors = new ArrayList<>();
         ArrayList<Appointment> appointments = new ArrayList<>();
 
-        //----- implement -------
+        
         Factory f = new Factory();
         f.info_doc(doctors);
 
